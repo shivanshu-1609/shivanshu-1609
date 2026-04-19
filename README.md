@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:1d4ed8,100:0ea5e9&text=Shivanshu%20Shukla&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Deep%20Learning&descAlignY=60&animation=fadeIn" alt="Header" />
+  <img src="https://raw.githubusercontent.com/shivanshu-1609/shivanshu-1609/main/IMG_20230921_020301.jpg" alt="Shivanshu Banner" width="100%" />
+</p>
+
+<h1 align="center">Shivanshu Shukla</h1>
+<p align="center">
+  <strong>AI Engineer | Machine Learning | Deep Learning | Data Science</strong>
 </p>
 
 <p align="center">
