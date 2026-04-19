@@ -109,6 +109,12 @@ My work spans machine learning, deep learning, and AI engineering projects with 
   <img src="https://github-profile-trophy.vercel.app/?username=shivanshu-1609&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
 </p>
 
+## Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivanshu-1609/shivanshu-1609/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
 ## Collaboration
 
 If you are building in AI, ML, DL, NLP, or computer vision, I am always open to meaningful collaboration and high-impact ideas.
