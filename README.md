@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivanshu-1609/shivanshu-1609/main/IMG_20230921_020301.jpg" alt="Shivanshu Banner" width="100%" />
+  <a href="./assets/profile-banner.mp4" title="Open HD animation">
+    <picture>
+      <source srcset="./assets/profile-banner.webp" type="image/webp" />
+      <img src="./assets/profile-banner-poster.jpg" alt="Shivanshu AI Banner Animation" width="100%" />
+    </picture>
+  </a>
 </p>
+
+<p align="center"><em>Click the banner to view the HD animation</em></p>
 
 <h1 align="center">Shivanshu Shukla</h1>
 <p align="center">
