@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Shivanshu Shukla neon name">
+  <defs>
+    <linearGradient id="strokeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9ad9ff"/>
+      <stop offset="50%" stop-color="#d8f0ff"/>
+      <stop offset="100%" stop-color="#8cc8ff"/>
+    </linearGradient>
+    <filter id="glowStrong" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur1"/>
+      <feGaussianBlur stdDeviation="10" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowSoft" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <g filter="url(#glowStrong)">
+    <text x="50%" y="112" text-anchor="middle" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="4" fill="none" stroke="url(#strokeGrad)" stroke-width="3.4">$#!√@π$#U</text>
+    <text x="50%" y="112" text-anchor="middle" font-family="Trebuchet MS, Segoe UI, Arial, sans-serif" font-size="112" font-weight="700" letter-spacing="4" fill="#eaf6ff" opacity="0.28">$#!√@π$#U</text>
+  </g>
+
+  <text x="50%" y="182" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="7" fill="#c8e9ff" filter="url(#glowSoft)">SHIVANSHU SHUKLA</text>
+</svg>

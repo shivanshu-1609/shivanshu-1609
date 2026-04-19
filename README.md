@@ -9,7 +9,11 @@
 
 <p align="center"><em>Click the banner to view the HD animation</em></p>
 
-<h1 align="center">Shivanshu Shukla</h1>
+<p align="center">
+  <img src="./assets/name-neon.svg" alt="Shivanshu Shukla" width="860" />
+</p>
+
+<p align="center"><em>aka <code>$#!√@π$#U</code></em></p>
 <p align="center">
   <strong>AI Engineer | Machine Learning | Deep Learning | Data Science</strong>
 </p>
